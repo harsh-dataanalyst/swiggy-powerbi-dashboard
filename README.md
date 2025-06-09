@@ -1,84 +1,53 @@
-# Swiggy Analytics Dashboard 📊
+# 🍽️ Swiggy Analytics Dashboard - Power BI Project
 
-A visually rich and interactive **Power BI dashboard** built to analyze Swiggy's business performance using data-driven insights. This project covers key metrics such as revenue, customer behavior, restaurant performance, and customer ratings.
+This Power BI dashboard provides deep insights into customer behavior, restaurant performance, order trends, and delivery efficiency using a simulated Swiggy food delivery dataset. The project is built using multiple CSV files and is designed to support decision-making through interactive visuals and KPIs.
 
-## 🔍 Project Overview
+## 🔗 Live Dashboard
+View the interactive dashboard here:  
+[Swiggy Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDQ5N2E5ZDctNzk1MC00M2YxLThiMTUtNDIzZjhlNjE0ZmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-This dashboard was created to simulate a real-world business intelligence solution for a leading food delivery platform like **Swiggy**. It helps stakeholders make strategic decisions by offering a comprehensive view of:
+## 📁 Dataset Files (Located in `swiggy_data_sources/`)
 
-- Revenue generation by city and date
-- Order distribution and volume
-- Restaurant performance and dish popularity
-- Customer satisfaction based on ratings and reviews
-- Delivery partner insights
+| File Name              | Description                                                   |
+|------------------------|---------------------------------------------------------------|
+| `customers.csv`        | Contains customer IDs, names, and locations.                  |
+| `orders.csv`           | Detailed order-level data including timestamps and restaurant linkage. |
+| `restaurants.csv`      | Restaurant names, city, and average rating.                   |
+| `delivery_partners.csv`| Delivery partner details including IDs and assignments.       |
 
-The project demonstrates my proficiency in **Power BI**, **data modeling**, **DAX**, and **data visualization** techniques.
+## 📊 Key Dashboard Insights
 
-## 📂 Dataset Details
+- 📈 **Revenue Dashboard**: Visualizes city-wise revenue, total income, and daily sales trends.
+- 🧾 **Orders Summary Dashboard**: Tracks order volumes, hourly distribution, and top-performing zones.
+- 🍽️ **Restaurant Dashboard**: Highlights best-performing restaurants, top dishes, and comparative revenue.
+- 🌟 **Rating Dashboard**: Analyzes customer feedback, average ratings, and identifies top-rated outlets.
 
-The analysis is based on the following `.csv` files:
+## ⚙️ Tools & Technologies
 
-| File Name              | Description |
-|------------------------|-------------|
-| `customers.csv`        | Contains customer demographic and ID details |
-| `delivery_partners.csv`| Contains delivery partner IDs and related info |
-| `Orders.csv`           | Main transactional data of orders placed |
-| `restaurants.csv`      | Restaurant details like ID, name, city, and ratings |
+- **Power BI** – Dashboard creation and interactive analytics
+- **Microsoft Excel / CSV** – Raw data handling
+- **DAX** – Measures and calculated columns for KPI tracking
+- **Data Modeling** – Table relationships and filter context setup
 
-These datasets were cleaned, transformed, and loaded using Power Query and modeled efficiently in Power BI.
+## 👨‍💻 About Me
 
-## 📈 Dashboard Features
+I’m Harsh Gupta, a data analyst passionate about transforming raw data into meaningful business insights.  
+📩 **Email**: harshgupta11x@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/hganalyst](https://www.linkedin.com/in/hganalyst/)
 
-The dashboard is structured into multiple pages for clarity and navigation:
+## 📌 Project Goals
 
-### 🧾 Revenue Dashboard
-- City-wise revenue visualization
-- Daily revenue trends
-- Revenue contribution comparison
+- Enhance business understanding through real-world data visualization.
+- Showcase professional Power BI dashboarding skills.
+- Practice end-to-end data analysis from raw files to insight delivery.
 
-### 🍽️ Restaurant Dashboard
-- Top-performing restaurants
-- Popular dishes by frequency
-- Restaurant-wise order and revenue split
+## 📄 How to Use
 
-### 📦 Orders Summary
-- Total order count over time
-- Restaurant-wise order tracking
-- Hourly distribution of orders
-
-### ⭐ Rating Dashboard
-- Average customer rating analysis
-- Top-rated restaurants
-- Review count vs. rating correlation
-
-Each visual is created with interactivity, allowing users to drill down by restaurant, city, or timeframe.
-
-## 🚀 Tools Used
-
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Power Query**
-- **Excel (for preprocessing)**
-- **Data Modeling & Relationships**
-
-## 📌 Dashboard Link
-
-🔗 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDQ5N2E5ZDctNzk1MC00M2YxLThiMTUtNDIzZjhlNjE0ZmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-## 📇 Author
-
-**Harsh Gupta**  
-📧 harshgupta11x@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/hganalyst)
-
-## 📢 Contribution
-
-Feedback, suggestions, and collaborations are welcome. Feel free to connect or raise an issue if you'd like to contribute or learn more about this project.
-
-## 📌 License
-
-This project is for educational and portfolio purposes only. The data is synthetic and used for practice.
+1. Download the repository.
+2. Open the `.pbix` file using Power BI Desktop.
+3. Explore the dashboards and interact with filters/slicers.
 
 ---
 
-> ⭐ _If you found this useful or inspiring, please star the repository and share it with your network!_
+### 📢 Connect With Me
+If you found this project helpful or interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/hganalyst) or reach out via email!
