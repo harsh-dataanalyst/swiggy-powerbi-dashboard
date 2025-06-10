@@ -22,6 +22,24 @@ View the interactive dashboard here:
 - 🍽️ **Restaurant Dashboard**: Highlights best-performing restaurants, top dishes, and comparative revenue.
 - 🌟 **Rating Dashboard**: Analyzes customer feedback, average ratings, and identifies top-rated outlets.
 
+- ## 📸 Dashboard Preview
+
+### 🏠 Home Page View  
+![Home Page](assetsimages/home_page_view.png)
+
+### 📈 Revenue View  
+![Revenue Dashboard](assetsimages/revenue_view.png)
+
+### 📦 Orders Summary View  
+![Orders Dashboard](assetsimages/orders_view.png)
+
+### 🍽️ Restaurant Insights View  
+![Restaurant Dashboard](assetsimages/restaurant_view.png)
+
+### ⭐ Rating and Review View  
+![Rating and Review Dashboard](assetsimages/rating_and_review.png)
+
+
 ## ⚙️ Tools & Technologies
 
 - **Power BI** – Dashboard creation and interactive analytics
