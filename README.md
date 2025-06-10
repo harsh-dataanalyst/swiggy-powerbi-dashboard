@@ -49,5 +49,9 @@ I’m Harsh Gupta, a data analyst passionate about transforming raw data into me
 
 ---
 
+## 📌 License
+
+This project is for educational and portfolio purposes only. The data is synthetic and used for practice.
+
 ### 📢 Connect With Me
 If you found this project helpful or interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/hganalyst) or reach out via email!
